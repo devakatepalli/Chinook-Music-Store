@@ -39,12 +39,8 @@ etc.)\
 
 ## Tools & Technologies
 
-  Category        Tools Used
-  --------------- ------------------------------------------
-  Database        MySQL (Workbench)
-  Analysis        SQL (Queries, Joins, CTEs, Aggregations)
-  Visualization   MS Excel
-
+- **Database:** MySQL
+- **Visualization:** Excel
 ------------------------------------------------------------------------
 
 ## Methodology
