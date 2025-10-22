@@ -1,0 +1,11 @@
+genre_1,genre_2,times_bought_together
+Metal,Rock,1002
+Alternative & Punk,Rock,638
+Rock,Metal,620
+Rock,Alternative & Punk,418
+Rock,Alternative,309
+Latin,Rock,251
+Rock,R&B/Soul,232
+Blues,Rock,181
+Metal,Alternative & Punk,177
+Rock,Latin,176

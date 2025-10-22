@@ -1,0 +1,30 @@
+Region,num_customers,revenue,avg_order_value,avg_frequency,,,
+USA,13,1040.49,7.942672,10.0769,,,
+Canada,8,535.59,7.047237,9.5,,,
+Brazil,5,427.68,7.011148,12.2,,,
+France,5,389.07,7.7814,10,,Row Labels,Sum of revenue
+Germany,4,334.62,8.161463,10.25,,Argentina,39.6
+Czech Republic,2,273.24,9.108,15,,Australia,81.18
+United Kingdom,3,245.52,8.768571,9.3333,,Austria,69.3
+Portugal,2,185.13,6.383793,14.5,,Belgium,60.39
+India,2,183.15,8.721429,10.5,,Brazil,427.68
+Ireland,1,114.84,8.833846,13,,Canada,535.59
+Spain,1,98.01,8.91,11,,Chile,97.02
+Chile,1,97.02,7.463077,13,,Czech Republic,273.24
+Australia,1,81.18,8.118,10,,Denmark,37.62
+Finland,1,79.2,7.2,11,,Finland,79.2
+Hungary,1,78.21,7.821,10,,France,389.07
+Poland,1,76.23,7.623,10,,Germany,334.62
+Sweden,1,75.24,7.524,10,,Hungary,78.21
+Norway,1,72.27,8.03,9,,India,183.15
+Austria,1,69.3,7.7,9,,Ireland,114.84
+Netherlands,1,65.34,6.534,10,,Italy,50.49
+Belgium,1,60.39,8.627143,7,,Netherlands,65.34
+Italy,1,50.49,5.61,9,,Norway,72.27
+Argentina,1,39.6,7.92,5,,Poland,76.23
+Denmark,1,37.62,3.762,10,,Portugal,185.13
+,,,,,,Spain,98.01
+,,,,,,Sweden,75.24
+,,,,,,United Kingdom,245.52
+,,,,,,USA,1040.49
+,,,,,,Grand Total,4709.43

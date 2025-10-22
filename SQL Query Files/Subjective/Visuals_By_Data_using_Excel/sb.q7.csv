@@ -1,0 +1,60 @@
+customer_id,customer_name,country,tenure_days,purchase_frequency,total_spent,avg_order_value,days_since_last_purchase,customer_status,estimated_clv_1year,revenue_per_day,,,,
+8,Daan Peeters,Belgium,792,7,60.39,8.63,2203,Churned,27.83,0.08,,,,
+9,Kara Nielsen,Denmark,1087,10,37.62,3.76,2073,Churned,12.63,0.03,,,,
+4,Bjørn Hansen,Norway,1090,9,72.27,8.03,2067,Churned,24.2,0.07,,,,
+18,Michelle Brooks,USA,1158,8,79.2,9.9,2037,Churned,24.96,0.07,,,Row Labels,Average of estimated_clv_1year
+54,Steve Murray,United Kingdom,950,9,79.2,8.8,2017,Churned,30.43,0.08,,,Argentina,17.87
+36,Hannah Schneider,Germany,1111,11,85.14,7.74,2004,Churned,27.97,0.08,,,Australia,21.07
+39,Camille Bernard,France,1156,9,79.2,8.8,2000,Churned,25.01,0.07,,,Austria,23.66
+19,Tim Goyer,USA,1124,9,54.45,6.05,1997,Churned,17.68,0.05,,,Belgium,27.83
+38,Niklas Schröder,Germany,1189,9,73.26,8.14,1989,Churned,22.49,0.06,,,Brazil,25.396
+48,Johannes Van der Berg,Netherlands,1048,10,65.34,6.53,1984,Churned,22.76,0.06,,,Canada,18.94875
+43,Isabelle Mercier,France,1182,12,73.26,6.11,1979,Churned,22.62,0.06,,,Chile,30.19
+3,François Tremblay,Canada,1181,9,99.99,11.11,1965,Churned,30.9,0.08,,,Czech Republic,41.295
+57,Luis Rojas,Chile,1173,13,97.02,7.46,1941,Churned,30.19,0.08,,,Denmark,12.63
+50,Enrique Muñoz,Spain,1182,11,98.01,8.91,1940,Churned,30.27,0.08,,,Finland,20.44
+11,Alexandre Rocha,Brazil,974,10,69.3,6.93,1926,Churned,25.97,0.07,,,France,23.016
+10,Eduardo Martins,Brazil,1236,12,60.39,5.03,1925,Churned,17.83,0.05,,,Germany,25.0425
+56,Diego Gutiérrez,Argentina,809,5,39.6,7.92,1915,Churned,17.87,0.05,,,Hungary,21.29
+58,Manoj Pareek,India,1241,13,111.87,8.61,1905,Churned,32.9,0.09,,,India,25.505
+1,Luís Gonçalves,Brazil,1276,13,108.9,8.38,1896,Churned,31.15,0.09,,,Ireland,30.07
+7,Astrid Gruber,Austria,1069,9,69.3,7.7,1863,Churned,23.66,0.06,,,Italy,14.63
+17,Jack Smith,USA,1147,12,98.01,8.17,1847,Churned,31.19,0.09,,,Netherlands,22.76
+37,Fynn Zimmermann,Germany,1295,10,94.05,9.41,1831,Churned,26.51,0.07,,,Norway,24.2
+47,Lucas Mancini,Italy,1260,9,50.49,5.61,1822,Churned,14.63,0.04,,,Poland,19.34
+34,João Fernandes,Portugal,1327,13,102.96,7.92,1815,Churned,28.32,0.08,,,Portugal,24.675
+27,Patrick Gray,USA,1379,9,84.15,9.35,1812,Churned,22.27,0.06,,,Spain,30.27
+45,Ladislav Kovács,Hungary,1341,10,78.21,7.82,1809,Churned,21.29,0.06,,,Sweden,20.19
+28,Julia Barnett,USA,1137,10,72.27,7.23,1808,Churned,23.2,0.06,,,United Kingdom,24.72333333
+25,Victor Stevens,USA,1368,10,76.23,7.62,1807,Churned,20.34,0.06,,,USA,22.97923077
+6,Helena Holý,Czech Republic,1150,12,128.7,10.73,1805,Churned,40.85,0.11,,,Grand Total,23.49338983
+24,Frank Ralston,USA,1362,8,71.28,8.91,1803,Churned,19.1,0.05,,,,
+32,Aaron Mitchell,Canada,1213,8,70.29,8.79,1802,Churned,21.15,0.06,,,,
+22,Heather Leacock,USA,1322,12,92.07,7.67,1798,Churned,25.42,0.07,,,,
+30,Edward Francis,Canada,1398,13,91.08,7.01,1797,Churned,23.78,0.07,,,,
+40,Dominique Lefebvre,France,1396,9,72.27,8.03,1797,Churned,18.9,0.05,,,,
+41,Marc Dubois,France,1039,9,64.35,7.15,1785,Churned,22.61,0.06,,,,
+5,František Wichterlová,Czech Republic,1264,18,144.54,8.03,1785,Churned,41.74,0.11,,,,
+51,Joakim Johansson,Sweden,1360,10,75.24,7.52,1780,Churned,20.19,0.06,,,,
+16,Frank Harris,USA,1302,8,74.25,9.28,1777,Churned,20.82,0.06,,,,
+2,Leonie Köhler,Germany,1293,11,82.17,7.47,1776,Churned,23.2,0.06,,,,
+12,Roberto Almeida,Brazil,1376,11,82.17,7.47,1774,Churned,21.8,0.06,,,,
+31,Martha Silk,Canada,1415,11,62.37,5.67,1773,Churned,16.09,0.04,,,,
+42,Wyatt Girard,France,1407,11,99.99,9.09,1770,Churned,25.94,0.07,,,,
+23,John Gordon,USA,1121,10,66.33,6.63,1770,Churned,21.6,0.06,,,,
+13,Fernanda Ramos,Brazil,1291,15,106.92,7.13,1769,Churned,30.23,0.08,,,,
+44,Terhi Hämäläinen,Finland,1414,11,79.2,7.2,1759,Churned,20.44,0.06,,,,
+29,Robert Brown,Canada,1177,4,40.59,10.15,1759,Churned,12.59,0.03,,,,
+21,Kathy Chase,USA,1361,11,91.08,8.28,1758,Churned,24.43,0.07,,,,
+26,Richard Cunningham,USA,1338,12,86.13,7.18,1757,Churned,23.5,0.06,,,,
+46,Hugh O'Reilly,Ireland,1394,13,114.84,8.83,1755,Churned,30.07,0.08,,,,
+35,Madalena Sampaio,Portugal,1426,16,82.17,5.14,1750,Churned,21.03,0.06,,,,
+15,Jennifer Peterson,Canada,1335,9,66.33,7.37,1749,Churned,18.14,0.05,,,,
+59,Puja Srivastava,India,1437,8,71.28,8.91,1748,Churned,18.11,0.05,,,,
+14,Mark Philips,Canada,1156,10,29.7,2.97,1747,Churned,9.38,0.03,,,,
+49,Stanisław Wójcik,Poland,1439,10,76.23,7.62,1747,Churned,19.34,0.05,,,,
+55,Mark Taylor,Australia,1406,10,81.18,8.12,1746,Churned,21.07,0.06,,,,
+33,Ellie Sullivan,Canada,1404,12,75.24,6.27,1740,Churned,19.56,0.05,,,,
+52,Emma Jones,United Kingdom,1343,8,68.31,8.54,1740,Churned,18.57,0.05,,,,
+20,Dan Miller,USA,1432,12,95.04,7.92,1738,Churned,24.22,0.07,,,,
+53,Phil Hughes,United Kingdom,1421,11,98.01,8.91,1737,Churned,25.17,0.07,,,,

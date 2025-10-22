@@ -1,0 +1,25 @@
+country,num_customers,avg_spent_per_customer,avg_tracks_per_customer
+USA,13,800.45,80.85
+Canada,8,686.19,67.63
+Brazil,5,811.80,86.40
+France,5,794.57,78.60
+Germany,4,860.31,84.50
+"United Kingdom",3,832.92,82.67
+"Czech Republic",2,1591.92,138.00
+India,2,943.97,92.50
+Portugal,2,877.64,93.50
+Ireland,1,1433.52,116.00
+Spain,1,1076.13,99.00
+Australia,1,940.50,82.00
+Chile,1,912.78,98.00
+Hungary,1,830.61,79.00
+Sweden,1,754.38,76.00
+Poland,1,690.03,77.00
+Finland,1,685.08,80.00
+Norway,1,664.29,73.00
+Austria,1,649.44,70.00
+Belgium,1,567.27,61.00
+Netherlands,1,544.50,66.00
+Italy,1,468.27,51.00
+Argentina,1,396.00,40.00
+Denmark,1,196.02,38.00

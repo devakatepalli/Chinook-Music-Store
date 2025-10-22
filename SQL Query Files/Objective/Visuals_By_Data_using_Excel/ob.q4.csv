@@ -1,0 +1,54 @@
+billing_country,billing_state,billing_city,total_revenue,number_of_invoices
+Argentina,None,"Buenos Aires",39.60,5
+Australia,NSW,Sidney,81.18,10
+Austria,None,Vienne,69.30,9
+Belgium,None,Brussels,60.39,7
+Brazil,DF,Brasília,106.92,15
+Brazil,RJ,"Rio de Janeiro",82.17,11
+Brazil,SP,"São José dos Campos",108.90,13
+Brazil,SP,"São Paulo",129.69,22
+Canada,AB,Edmonton,29.70,10
+Canada,BC,Vancouver,66.33,9
+Canada,MB,Winnipeg,70.29,8
+Canada,NS,Halifax,62.37,11
+Canada,NT,Yellowknife,75.24,12
+Canada,ON,Ottawa,91.08,13
+Canada,ON,Toronto,40.59,4
+Canada,QC,Montréal,99.99,9
+Chile,None,Santiago,97.02,13
+"Czech Republic",None,Prague,273.24,30
+Denmark,None,Copenhagen,37.62,10
+Finland,None,Helsinki,79.20,11
+France,None,Bordeaux,99.99,11
+France,None,Dijon,73.26,12
+France,None,Lyon,64.35,9
+France,None,Paris,151.47,18
+Germany,None,Berlin,158.40,20
+Germany,None,Frankfurt,94.05,10
+Germany,None,Stuttgart,82.17,11
+Hungary,None,Budapest,78.21,10
+India,None,Bangalore,71.28,8
+India,None,Delhi,111.87,13
+Ireland,Dublin,Dublin,114.84,13
+Italy,RM,Rome,50.49,9
+Netherlands,VV,Amsterdam,65.34,10
+Norway,None,Oslo,72.27,9
+Poland,None,Warsaw,76.23,10
+Portugal,None,Lisbon,102.96,13
+Portugal,None,Porto,82.17,16
+Spain,None,Madrid,98.01,11
+Sweden,None,Stockholm,75.24,10
+"United Kingdom",None,"Edinburgh ",79.20,9
+"United Kingdom",None,London,166.32,19
+USA,AZ,Tucson,84.15,9
+USA,CA,Cupertino,54.45,9
+USA,CA,"Mountain View",169.29,20
+USA,FL,Orlando,92.07,12
+USA,IL,Chicago,71.28,8
+USA,MA,Boston,66.33,10
+USA,NV,Reno,91.08,11
+USA,NY,"New York",79.20,8
+USA,TX,"Fort Worth",86.13,12
+USA,UT,"Salt Lake City",72.27,10
+USA,WA,Redmond,98.01,12
+USA,WI,Madison,76.23,10

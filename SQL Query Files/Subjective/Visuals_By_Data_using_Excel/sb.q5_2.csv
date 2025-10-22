@@ -1,0 +1,28 @@
+region,total_customers,churned_customers,churn_rate,,,,
+Brazil,5,2,40,,,,
+France,5,2,40,,,Row Labels,Sum of churn_rate
+Germany,4,2,50,,,Argentina,0
+USA,13,2,15.38,,,Australia,0
+Belgium,1,1,100,,,Austria,0
+Canada,8,1,12.5,,,Belgium,100
+Chile,1,1,100,,,Brazil,40
+Denmark,1,1,100,,,Canada,12.5
+Netherlands,1,1,100,,,Chile,100
+Norway,1,1,100,,,Czech Republic,0
+Spain,1,1,100,,,Denmark,100
+United Kingdom,3,1,33.33,,,Finland,0
+Argentina,1,0,0,,,France,40
+Australia,1,0,0,,,Germany,50
+Austria,1,0,0,,,Hungary,0
+Czech Republic,2,0,0,,,India,0
+Finland,1,0,0,,,Ireland,0
+Hungary,1,0,0,,,Italy,0
+India,2,0,0,,,Netherlands,100
+Ireland,1,0,0,,,Norway,100
+Italy,1,0,0,,,Poland,0
+Poland,1,0,0,,,Portugal,0
+Portugal,2,0,0,,,Spain,100
+Sweden,1,0,0,,,Sweden,0
+,,,,,,United Kingdom,33.33
+,,,,,,USA,15.38
+,,,,,,Grand Total,791.21
